@@ -1,0 +1,294 @@
+
+.jpg{
+    width: 100%;
+    margin-bottom: 15px;
+    display: block;
+}
+
+
+nav{
+    background-color:lightgray;
+    
+    border-radius: 150px;
+    margin: 50px;
+}
+nav > button{
+    background-color: transparent;
+     padding: 10px;
+    font-size: 12px;
+    width: 20%;
+    margin-left: 30px;
+border-radius: 15px;
+margin-bottom: 20px;
+}
+.for{
+    width: 50px;
+    background-color: rgb(246, 58, 89);
+    margin-left: 50px;
+    border-radius: 20px;
+}
+.buc{
+    width: 70px;
+    margin-left: 30px;
+}
+.oii{
+    font-size: 50px;
+    background-color: rgb(241, 73, 73);
+    line-height: 20px;
+    margin-left: 60px;
+    flex-direction: column;
+    padding: 5px;
+    
+}
+.op{
+    width: 150px;
+    margin-left: 20px;
+}
+ 
+.pech{
+    font-size: 14px;
+}
+.con{
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 10px;
+    width: 20%;
+
+
+}
+img{
+    width: 160px;
+}
+.youu{
+    background-color: #ffffff;
+}
+.sub{
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 10px;
+    width: 20%;
+    font-size: 16px;
+
+
+}
+.from{
+    font-size: 12px;
+}
+.para{
+    width: 60px;
+}
+.img-2{
+    width: 90%;
+    margin: 10px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.img-3{
+    display: flex;
+    width: 20%;
+    gap: 70px;
+}
+.col{
+    color: red;
+    font-size: 20px;
+
+}
+.search-box{
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    border: 1px solid #d9d9ff;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 40px;
+
+}
+.search-box input{
+border: none;
+color: #555;
+background: transparent;
+font-size: 16px; 
+}
+.search-box button{
+    background: #d3202e;
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 20px;
+    margin-left: 80%;
+}
+h1{
+    font-size: 35px;
+    margin-left: 20px;
+}
+.items{
+    color: red;
+}
+.most{
+    font-size: 25px;
+    margin-left: 20px;
+
+}
+.img-4{
+    width: 20%;
+    border-radius: 20px;
+}
+.fam{
+    font-size: 30px;
+}
+.pp{
+    font-size: 20px;
+    color: lightslategray;
+}
+.img-5{
+    width: 70%;
+    margin-left: 100PX;
+    padding: 40PX;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Irish Grover", system-ui;
+}
+.card-sec{
+    width: 80%;
+    height: 100%;
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.card{
+    border: 1px solid #ff4343;
+    border-radius: 10px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    overflow: hidden;
+}
+.card > img{
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+    height: 250px;
+    display: block;
+}
+.card h1{
+    font-size: 1.5rem;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.card p{
+    font-size: 1rem;
+    color: #767676;
+    font-family: sans-serif;
+    font-weight: 500px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.bottom-sec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom-sec > span{
+    width: 50%;
+    font-size: 1.6rem;
+}
+.bottom-sec > button{
+    font-size: 2rem;
+    background-color: #ff4343;
+    color: aliceblue;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 10px;
+}
+.mee{
+    line-height: 50px;
+}
+.img-7 {
+    width: 100%;
+}
+.img-8{
+    width: 100%;
+}
+.img-9{
+    width: 100%;
+}
+.mob{
+    margin-left: 90px;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #d3202e;
+    border-radius: 50px;
+    width: 80%;
+    margin-right: 20px;
+    display: flex;
+    height: 50%;
+
+}
+.pic{
+    width: 40%;
+margin-left: 20%;
+    
+}
+.pic-1{
+    width: 30%;
+    margin-right: 10px;
+}
+.ORD{
+    color: #ffffff;
+    font-size: 35px;
+    margin-left: 20px;
+}
+.dow{
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+
+.lii{
+    background-color: black;
+    border: 1px solid black;
+    margin-left: 20px;
+    width: 15%;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.mee{
+    color: #555;
+    font-size: 45px;
+text-align: center;
+    margin-top: 15px;
+}
+.lorem{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.block{
+    color: #555;
+    font-size: 25px;
+}
+.face{
+    width: 30px;
+}
+.helpline{
+    display: flex;
+    gap: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.copy{
+    color: black;
+}
+.last{
+    width: 100%;
+}
